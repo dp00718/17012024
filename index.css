@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+    justify-content: space-between ;
+    background-color: blue;
+}
+
+.box1:hover li{
+list-style: none;  
+text-decoration-style: ;
+justify-content: space-between;
+color: yellow;
+display: list-item;
+
+}
+.box2:hover li{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: list-item;
+}
+.box3:hover li{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: list-item;
+}
+.box4:hover li{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: none;
+    visibility: hidden;
+    
+}
+.box5:hover h3{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: list-item;
+}
+.box6:hover li{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: list-item;
+}
+.box7:hover h3{
+    list-style: none;  
+    text-decoration-style: ;
+    justify-content: space-between;
+    color: yellow;
+    display: list-item;
+}
